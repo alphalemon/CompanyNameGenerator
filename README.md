@@ -23,6 +23,7 @@ Add the CompanyNameGenerator™ library to your `composer.json` file:
 
     {
       "require": {
+        "fzaninotto/faker": "dev-master",
         "fzaninotto/company-name-generator": "dev-master"
       }
     }
